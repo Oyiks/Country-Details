@@ -1,0 +1,11 @@
+PROBLEM
+
+Search for a country using an `input` field
+
+* How to implement search functionality in javascript.
+* how to search for data in an api.
+
+* typing out the exact country
+* remove whitespaces
+* change to lowercase
+* display the specific country data on a separate page.
